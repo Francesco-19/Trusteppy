@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>TruSteppy</title>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+<img src="Icon2.png" alt="AppIcon">
+
+<p>Welcome to the web terms and conditions page of the App TruSteppy.
+<p></p>
+<br>For any type of assistence, please contact one of these emails:</p>
+      <p>frankkekko@gmail.commebbell</p>
+      <p>graziarcasso@india.com</p>
+      <p>albabbetta@veryhotmail.com</p>
+
+</body>
+</html>
